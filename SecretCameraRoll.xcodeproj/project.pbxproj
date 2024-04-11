@@ -8,12 +8,27 @@
 
 /* Begin PBXBuildFile section */
 		F901693D2B6FD80A00D42BD9 /* SecretCameraRollApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = F901693C2B6FD80A00D42BD9 /* SecretCameraRollApp.swift */; };
-		F901693F2B6FD80A00D42BD9 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = F901693E2B6FD80A00D42BD9 /* ContentView.swift */; };
 		F90169412B6FD80B00D42BD9 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = F90169402B6FD80B00D42BD9 /* Assets.xcassets */; };
 		F90169442B6FD80B00D42BD9 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = F90169432B6FD80B00D42BD9 /* Preview Assets.xcassets */; };
 		F901694E2B6FD80B00D42BD9 /* SecretCameraRollTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = F901694D2B6FD80B00D42BD9 /* SecretCameraRollTests.swift */; };
 		F90169582B6FD80B00D42BD9 /* SecretCameraRollUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = F90169572B6FD80B00D42BD9 /* SecretCameraRollUITests.swift */; };
 		F901695A2B6FD80B00D42BD9 /* SecretCameraRollUITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = F90169592B6FD80B00D42BD9 /* SecretCameraRollUITestsLaunchTests.swift */; };
+		F90169682B6FD8E000D42BD9 /* CalculatorView.swift in Sources */ = {isa = PBXBuildFile; fileRef = F90169672B6FD8E000D42BD9 /* CalculatorView.swift */; };
+		F90169722B6FDC4D00D42BD9 /* CamereRollView.swift in Sources */ = {isa = PBXBuildFile; fileRef = F90169712B6FDC4D00D42BD9 /* CamereRollView.swift */; };
+		F90169752B6FDD2D00D42BD9 /* SetPasswordView.swift in Sources */ = {isa = PBXBuildFile; fileRef = F90169742B6FDD2D00D42BD9 /* SetPasswordView.swift */; };
+		F90169782B6FDE3000D42BD9 /* StandartButton.swift in Sources */ = {isa = PBXBuildFile; fileRef = F90169772B6FDE3000D42BD9 /* StandartButton.swift */; };
+		F901697A2B6FDE6E00D42BD9 /* DummyGrayButton.swift in Sources */ = {isa = PBXBuildFile; fileRef = F90169792B6FDE6E00D42BD9 /* DummyGrayButton.swift */; };
+		F901697C2B6FDEA700D42BD9 /* DummySymbolButton.swift in Sources */ = {isa = PBXBuildFile; fileRef = F901697B2B6FDEA700D42BD9 /* DummySymbolButton.swift */; };
+		F901697E2B6FDED100D42BD9 /* DummyNumberButton.swift in Sources */ = {isa = PBXBuildFile; fileRef = F901697D2B6FDED100D42BD9 /* DummyNumberButton.swift */; };
+		F90169802B6FDF8300D42BD9 /* GrayButton.swift in Sources */ = {isa = PBXBuildFile; fileRef = F901697F2B6FDF8300D42BD9 /* GrayButton.swift */; };
+		F90169832B6FE00000D42BD9 /* EqualButton.swift in Sources */ = {isa = PBXBuildFile; fileRef = F90169822B6FE00000D42BD9 /* EqualButton.swift */; };
+		F90169872B6FE16100D42BD9 /* NumberButton.swift in Sources */ = {isa = PBXBuildFile; fileRef = F90169862B6FE16100D42BD9 /* NumberButton.swift */; };
+		F901698B2B6FE2E400D42BD9 /* SymbolButton.swift in Sources */ = {isa = PBXBuildFile; fileRef = F901698A2B6FE2E400D42BD9 /* SymbolButton.swift */; };
+		F901698F2B6FFCC600D42BD9 /* CustomButton.swift in Sources */ = {isa = PBXBuildFile; fileRef = F901698E2B6FFCC600D42BD9 /* CustomButton.swift */; };
+		F90169952B70EAE500D42BD9 /* FullScreenView.swift in Sources */ = {isa = PBXBuildFile; fileRef = F90169942B70EAE500D42BD9 /* FullScreenView.swift */; };
+		F90169982B70F15900D42BD9 /* pageModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = F90169972B70F15900D42BD9 /* pageModel.swift */; };
+		F901699A2B70F1B600D42BD9 /* pageView.swift in Sources */ = {isa = PBXBuildFile; fileRef = F90169992B70F1B600D42BD9 /* pageView.swift */; };
+		F901699C2B70F54900D42BD9 /* IntroView.swift in Sources */ = {isa = PBXBuildFile; fileRef = F901699B2B70F54900D42BD9 /* IntroView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -36,7 +51,6 @@
 /* Begin PBXFileReference section */
 		F90169392B6FD80A00D42BD9 /* SecretCameraRoll.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = SecretCameraRoll.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		F901693C2B6FD80A00D42BD9 /* SecretCameraRollApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SecretCameraRollApp.swift; sourceTree = "<group>"; };
-		F901693E2B6FD80A00D42BD9 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		F90169402B6FD80B00D42BD9 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		F90169432B6FD80B00D42BD9 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		F90169492B6FD80B00D42BD9 /* SecretCameraRollTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = SecretCameraRollTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
@@ -44,6 +58,22 @@
 		F90169532B6FD80B00D42BD9 /* SecretCameraRollUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = SecretCameraRollUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		F90169572B6FD80B00D42BD9 /* SecretCameraRollUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SecretCameraRollUITests.swift; sourceTree = "<group>"; };
 		F90169592B6FD80B00D42BD9 /* SecretCameraRollUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SecretCameraRollUITestsLaunchTests.swift; sourceTree = "<group>"; };
+		F90169672B6FD8E000D42BD9 /* CalculatorView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CalculatorView.swift; sourceTree = "<group>"; };
+		F90169712B6FDC4D00D42BD9 /* CamereRollView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CamereRollView.swift; sourceTree = "<group>"; };
+		F90169742B6FDD2D00D42BD9 /* SetPasswordView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SetPasswordView.swift; sourceTree = "<group>"; };
+		F90169772B6FDE3000D42BD9 /* StandartButton.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = StandartButton.swift; sourceTree = "<group>"; };
+		F90169792B6FDE6E00D42BD9 /* DummyGrayButton.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DummyGrayButton.swift; sourceTree = "<group>"; };
+		F901697B2B6FDEA700D42BD9 /* DummySymbolButton.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DummySymbolButton.swift; sourceTree = "<group>"; };
+		F901697D2B6FDED100D42BD9 /* DummyNumberButton.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DummyNumberButton.swift; sourceTree = "<group>"; };
+		F901697F2B6FDF8300D42BD9 /* GrayButton.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GrayButton.swift; sourceTree = "<group>"; };
+		F90169822B6FE00000D42BD9 /* EqualButton.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = EqualButton.swift; sourceTree = "<group>"; };
+		F90169862B6FE16100D42BD9 /* NumberButton.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NumberButton.swift; sourceTree = "<group>"; };
+		F901698A2B6FE2E400D42BD9 /* SymbolButton.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SymbolButton.swift; sourceTree = "<group>"; };
+		F901698E2B6FFCC600D42BD9 /* CustomButton.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CustomButton.swift; sourceTree = "<group>"; };
+		F90169942B70EAE500D42BD9 /* FullScreenView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FullScreenView.swift; sourceTree = "<group>"; };
+		F90169972B70F15900D42BD9 /* pageModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = pageModel.swift; sourceTree = "<group>"; };
+		F90169992B70F1B600D42BD9 /* pageView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = pageView.swift; sourceTree = "<group>"; };
+		F901699B2B70F54900D42BD9 /* IntroView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = IntroView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -94,9 +124,11 @@
 		F901693B2B6FD80A00D42BD9 /* SecretCameraRoll */ = {
 			isa = PBXGroup;
 			children = (
+				F90169962B70F14A00D42BD9 /* tutorial */,
 				F901693C2B6FD80A00D42BD9 /* SecretCameraRollApp.swift */,
-				F901693E2B6FD80A00D42BD9 /* ContentView.swift */,
 				F90169402B6FD80B00D42BD9 /* Assets.xcassets */,
+				F90169732B6FDC5500D42BD9 /* CameraRollView */,
+				F90169662B6FD8CA00D42BD9 /* CalculatorView */,
 				F90169422B6FD80B00D42BD9 /* Preview Content */,
 			);
 			path = SecretCameraRoll;
@@ -125,6 +157,51 @@
 				F90169592B6FD80B00D42BD9 /* SecretCameraRollUITestsLaunchTests.swift */,
 			);
 			path = SecretCameraRollUITests;
+			sourceTree = "<group>";
+		};
+		F90169662B6FD8CA00D42BD9 /* CalculatorView */ = {
+			isa = PBXGroup;
+			children = (
+				F90169762B6FDDD800D42BD9 /* CostumButtons */,
+				F90169672B6FD8E000D42BD9 /* CalculatorView.swift */,
+				F90169742B6FDD2D00D42BD9 /* SetPasswordView.swift */,
+			);
+			path = CalculatorView;
+			sourceTree = "<group>";
+		};
+		F90169732B6FDC5500D42BD9 /* CameraRollView */ = {
+			isa = PBXGroup;
+			children = (
+				F90169712B6FDC4D00D42BD9 /* CamereRollView.swift */,
+				F90169942B70EAE500D42BD9 /* FullScreenView.swift */,
+			);
+			path = CameraRollView;
+			sourceTree = "<group>";
+		};
+		F90169762B6FDDD800D42BD9 /* CostumButtons */ = {
+			isa = PBXGroup;
+			children = (
+				F90169792B6FDE6E00D42BD9 /* DummyGrayButton.swift */,
+				F901697D2B6FDED100D42BD9 /* DummyNumberButton.swift */,
+				F901697B2B6FDEA700D42BD9 /* DummySymbolButton.swift */,
+				F90169822B6FE00000D42BD9 /* EqualButton.swift */,
+				F901697F2B6FDF8300D42BD9 /* GrayButton.swift */,
+				F90169862B6FE16100D42BD9 /* NumberButton.swift */,
+				F90169772B6FDE3000D42BD9 /* StandartButton.swift */,
+				F901698A2B6FE2E400D42BD9 /* SymbolButton.swift */,
+				F901698E2B6FFCC600D42BD9 /* CustomButton.swift */,
+			);
+			path = CostumButtons;
+			sourceTree = "<group>";
+		};
+		F90169962B70F14A00D42BD9 /* tutorial */ = {
+			isa = PBXGroup;
+			children = (
+				F90169972B70F15900D42BD9 /* pageModel.swift */,
+				F90169992B70F1B600D42BD9 /* pageView.swift */,
+				F901699B2B70F54900D42BD9 /* IntroView.swift */,
+			);
+			path = tutorial;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -257,8 +334,23 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				F901693F2B6FD80A00D42BD9 /* ContentView.swift in Sources */,
+				F901697C2B6FDEA700D42BD9 /* DummySymbolButton.swift in Sources */,
+				F901699A2B70F1B600D42BD9 /* pageView.swift in Sources */,
+				F90169782B6FDE3000D42BD9 /* StandartButton.swift in Sources */,
+				F90169722B6FDC4D00D42BD9 /* CamereRollView.swift in Sources */,
+				F901697A2B6FDE6E00D42BD9 /* DummyGrayButton.swift in Sources */,
+				F901698F2B6FFCC600D42BD9 /* CustomButton.swift in Sources */,
+				F90169982B70F15900D42BD9 /* pageModel.swift in Sources */,
+				F90169682B6FD8E000D42BD9 /* CalculatorView.swift in Sources */,
+				F901699C2B70F54900D42BD9 /* IntroView.swift in Sources */,
+				F90169832B6FE00000D42BD9 /* EqualButton.swift in Sources */,
+				F90169872B6FE16100D42BD9 /* NumberButton.swift in Sources */,
+				F90169952B70EAE500D42BD9 /* FullScreenView.swift in Sources */,
 				F901693D2B6FD80A00D42BD9 /* SecretCameraRollApp.swift in Sources */,
+				F901697E2B6FDED100D42BD9 /* DummyNumberButton.swift in Sources */,
+				F90169802B6FDF8300D42BD9 /* GrayButton.swift in Sources */,
+				F90169752B6FDD2D00D42BD9 /* SetPasswordView.swift in Sources */,
+				F901698B2B6FE2E400D42BD9 /* SymbolButton.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
